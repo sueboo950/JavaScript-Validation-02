@@ -1,4 +1,3 @@
-console.log("hello!")
 let myName = "";
 myName = "Sophia";
 let lengthofName = myName.length;
